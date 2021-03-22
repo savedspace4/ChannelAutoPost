@@ -56,6 +56,14 @@
 
             "value": ""
 
+        },
+
+        "TO_CHANNEL": {
+
+            "description": "Add your bot to a channel and paste the Channel ID here.",
+
+            "value": ""
+
         }
 
     },
