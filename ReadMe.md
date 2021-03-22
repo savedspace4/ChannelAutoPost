@@ -32,3 +32,6 @@ Visit [@TeamCyphers](https://t.me/TeamCyphers) for help.
 > [Lonami](https://github.com/LonamiWebs), for [Telethon](https://github.com/LonamiWebs/Telethon).   
 > [xditya](https://github.com/xditya), me.   
 > [@ettan_fan](https://t.me/ettan_fan), for the whole idea.   
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
